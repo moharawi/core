@@ -1,4 +1,3 @@
 core
 ====
-
-center for complex engineering system
+center for complex engineering system software 
